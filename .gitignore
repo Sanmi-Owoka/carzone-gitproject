@@ -177,3 +177,8 @@ cython_debug/
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+### Windows template
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
